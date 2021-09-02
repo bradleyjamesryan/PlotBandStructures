@@ -2,4 +2,4 @@
 
 These files enable you to plot band structures with color bands, where the color of the band corresponds to the projected density of states.
 
-![](SiH_Orbitals.png)
+![](ExampleImages/SiH_Orbitals.png)
